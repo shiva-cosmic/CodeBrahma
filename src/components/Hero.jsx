@@ -96,11 +96,6 @@
                         <div className="w-3 h-3 bg-yellow-400 rounded-full" />
                         <div className="w-3 h-3 bg-green-500 rounded-full" />
                       </div>
-                      <div className="flex gap-2">
-                        <div className="w-3 h-3 bg-red-500 rounded-full" />
-                        <div className="w-3 h-3 bg-yellow-400 rounded-full" />
-                        <div className="w-3 h-3 bg-green-500 rounded-full" />
-                      </div>
                       <span className="text-gray-300 text-sm">Code Brahma</span>
                     </div>
 

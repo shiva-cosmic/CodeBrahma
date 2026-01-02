@@ -75,7 +75,6 @@ export default function Features() {
                   rounded-xl sm:rounded-2xl p-4 sm:p-6 overflow-hidden group-hover:border-purple-500/60 transition-all duration-300"
                   >
                     {/* Ide Interface */}
-
                     <div className="bg-gray-900 rounded-lg p-3 sm:p-4 font-mono text-xs sm:text-sm">
                       <div className="flex items-center space-x-1 sm:space-x-2 mb-3 sm:mb-4">
                         <div className="flex items-center space-x-1 sm:space-x-2">
@@ -108,6 +107,7 @@ export default function Features() {
                   </div>
                 </div>
               </div>
+
               {/* text section */}
               <div className="flex-1 w-full">
                 <div className="max-w-lg mx-auto lg:mx-0 text-center lg:text-left">

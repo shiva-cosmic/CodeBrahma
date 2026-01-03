@@ -24,6 +24,15 @@ const testimonials = [
       "Our development velocity increased by 300% since adopting this platform. It's like having a senior developer pair programming with every team member.",
   },
 ];
+  {
+    name: "Emily Watson",
+    role: "CTO",
+    image:
+      "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=200",
+    content:
+      "Our development velocity increased by 300% since adopting this platform. It's like having a senior developer pair programming with every team member.",
+  },
+];
 
 export default function Testimonials() {
   return (

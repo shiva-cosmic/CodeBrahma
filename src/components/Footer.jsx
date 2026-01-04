@@ -51,38 +51,6 @@ export default function Footer() {
               ))}
             </div>
           </div>
-        <div className="hidden sm:grid sm:grid-cols-3 lg:grid-cols-6 gap-6 sm:gap-8 lg:gap-12 mb-10 sm:mb-14">
-          
-          {/* Logo + Social */}
-          <div className="col-span-1 sm:col-span-3 lg:col-span-2 text-center sm:text-left">
-            <div className="flex items-center justify-center sm:justify-start space-x-2 mb-4">
-              <img
-                src="/logo.png"
-                alt="Brahma Logo"
-                className="w-7 h-7 sm:w-9 sm:h-9 drop-shadow-lg rounded-md"
-              />
-              <span className="text-xl sm:text-2xl font-extrabold tracking-wide">
-                <span className="text-white">Code</span>
-                <span className="text-purple-400">Brahma</span>
-              </span>
-            </div>
-
-            <p className="text-gray-400/90 mb-6 max-w-xs mx-auto sm:mx-0 text-sm sm:text-base leading-relaxed">
-              Elevate your development workflow with AI-powered tools and smart automation built for modern teams.
-            </p>
-
-            <div className="flex justify-center sm:justify-start space-x-3 sm:space-x-4">
-              {[Twitter, Github, Linkedin, Mail].map((Icon, i) => (
-                <a
-                  key={i}
-                  href="#"
-                  className="p-2.5 bg-slate-800/70 rounded-xl hover:bg-purple-700/50 hover:scale-110 transition-all duration-300 shadow-sm"
-                >
-                  <Icon className="w-5 h-5 text-purple-300 hover:text-white transition" />
-                </a>
-              ))}
-            </div>
-          </div>
 
           {/* Links Section */}
           <div className="sm:col-span-3 lg:col-span-4">

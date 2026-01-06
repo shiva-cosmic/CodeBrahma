@@ -38,6 +38,9 @@ export default function Footer() {
             <p className="text-gray-400/90 mb-6 max-w-xs mx-auto sm:mx-0 text-sm sm:text-base leading-relaxed">
               Elevate your development workflow with AI-powered tools and smart automation built for modern teams.
             </p>
+            <p className="text-gray-400/90 mb-6 max-w-xs mx-auto sm:mx-0 text-sm sm:text-base leading-relaxed">
+              Elevate your development workflow with AI-powered tools and smart automation built for modern teams.
+            </p>
 
             <div className="flex justify-center sm:justify-start space-x-3 sm:space-x-4">
               {[Twitter, Github, Linkedin, Mail].map((Icon, i) => (

@@ -48,9 +48,6 @@ export default function Features() {
             <span className="bg-gradient-to-b from-white to-gray-300 bg-clip-text text-transparent">
               Your Complete Development
             </span>
-            <span className="bg-gradient-to-b from-white to-gray-300 bg-clip-text text-transparent">
-              Your Complete Development
-            </span>
             <br />
             <span className="bg-gradient-to-b from-purple-400 to-pink-400 bg-clip-text text-transparent">
               Workflow

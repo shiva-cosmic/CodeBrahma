@@ -34,6 +34,15 @@ const result = await processData(input)
 // Fixed: Added await keyword`,
     imagePosition: "left",
   },
+  {
+    title: "Smart Debugging",
+    description:
+      "Identify and fix bugs before they reach production. AI-powered error detection and resolution suggestions help you debug faster.",
+    codeSnippet: `// AI suggests fix:
+const result = await processData(input)
+// Fixed: Added await keyword`,
+    imagePosition: "left",
+  },
 ];
 
 export default function Features() {
